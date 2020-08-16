@@ -1,2 +1,2 @@
 # ua_harish_patna_vivekanand
-hindi enabled login and registration
+Hindi(devnagri script) enabled login and registration
